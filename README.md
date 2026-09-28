@@ -1,3 +1,5 @@
+> **Fork** de [heartcombo/devise](https://github.com/heartcombo/devise) (antigo `plataformatec/devise`), branch `3-stable`, a partir do commit [`fb48336`](https://github.com/heartcombo/devise/commit/fb48336709bc1a29ff15b7170ed7b33906c66888). Mantido aqui para uso no projeto educação.
+
 ![Devise Logo](https://raw.github.com/plataformatec/devise/master/devise.png)
 
 By [Plataformatec](http://plataformatec.com.br/).
